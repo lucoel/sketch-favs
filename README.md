@@ -20,13 +20,12 @@ _Protip: Install plugins via Sketch Runner (see below) or [Sketchpacks](https://
 
 ### Layout
 * [Distributor](https://github.com/PEZ/SketchDistributor) - Sketch plugin that distributes selected objects vertically or horizontally with a given spacing.
-* [Sketch Flex Layout](https://github.com/hrescak/Sketch-Flex-Layout) - 
+* [Sketch Flex Layout](https://github.com/hrescak/Sketch-Flex-Layout) - CSS Flexbox layouts using stylesheets and prototypes.
 * [Confetti](http://www.sketchconfetti.com/)💰 -  Randomly distribute selected layers to create a 'confetti' effect. 
 
 ### Icons
 * [Sketch-Icons](https://github.com/AMoreaux/Sketch-Icons) - Allows you to import a set of icons and automatically apply a color mask.
 * [AEIconizer](https://github.com/tadija/AEIconizer) - Automatic scaling of app icon artwork in all needed sizes (for iOS and macOS).
-
 
 
 ### Content Generators
@@ -35,6 +34,8 @@ _Protip: Install plugins via Sketch Runner (see below) or [Sketchpacks](https://
 
 ### Uncategorized 
 * [Sketch2AE](https://google.github.io/sketch2ae/) - Live After Effects layers straight from Sketch artboards. (from Google SUMux Motion Design)
+* [Gif.me](https://www.sketchgif.me/) - Embed gifs and videos in your Sketch files.
+* 🔥 [Diya](http://diyahq.com/) - Design and preview animations directly in Sketch, with HTML export for animation specs. (Currently in private beta)
 
 
 ## Tools 
