@@ -42,6 +42,7 @@ _Protip: Install plugins via Sketch Runner (see below) or [Sketchpacks](https://
 * [Zeplin](https://zeplin.io) – Design hand-off to developers has never been easier. Generate styleguides and resources, automatically.
 * [InVision](https://sketchpacks.com/) – Prototyping, design collaboration and developer hand-off. 
 * [Abstract](https://www.goabstract.com/) – Git-like version control for Sketch files for design teams. 
+* [Haiku](https://www.haiku.ai/) - Animate components ready for Web, iOS or Android. Version control included. 
 
 
 ---
